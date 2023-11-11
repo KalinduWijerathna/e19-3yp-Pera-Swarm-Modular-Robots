@@ -1,0 +1,1 @@
+.fullpage-container{height:100vh;scroll-snap-type:y mandatory;overflow-y:scroll}.fullpage{height:100vh;scroll-snap-align:start}nav{background-color:#0000;position:fixed;top:0;width:100%;z-index:9999}ul{list-style-type:none;margin:0;padding:0;display:flex}li{margin:10px}.active{color:red}*{margin:0;padding:0;box-sizing:border-box}
